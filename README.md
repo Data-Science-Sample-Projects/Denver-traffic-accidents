@@ -17,10 +17,11 @@ As a result the city approved the "20 is plenty" ordinance, cutting the speed li
  1. While there are some common accident sites (shown here with a heatmap) essentially the entire city is fair game.
 
 
+![all Denver accidents over the last 10 years](images/GreaterDenver.png "All Denver accidents over the last 10 years")
+
 
  2. Covid had a major positive impact on accidents.
-
-
+![all Denver accidents over the last 10 years](images/AccidentsByMonth.png "All Denver accidents Accidents by month")
 
  3. 
 
